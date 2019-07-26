@@ -1,0 +1,6 @@
+no_use = 안쓰는 템플릿은 저기 안에 넣어놨음
+detail.html = 등록한 창고의 세부내용을 나타내는 문서
+about.html = 안쓰는거
+index.html = 홈페이지
+services.html = 자신에 맞는 창고를 검색하는 곳 
+register.html = 창고업자들이 등록하는것
